@@ -1,0 +1,22 @@
+#videoPlayer {
+    width: 100%; /* Define a largura do player como 100% do contêiner pai */
+    max-width: 800px; /* Define a largura máxima do player */
+    height: auto; /* Mantém a proporção do vídeo */
+  }
+
+  #videoPlayer {
+    background-color: #000; /* Define a cor de fundo do player */
+  }
+
+  #videoPlayer::-webkit-media-controls {
+    color: #fff; /* Define a cor dos controles de mídia em navegadores WebKit (Chrome, Safari) */
+  }
+
+  #videoPlayer::-webkit-media-controls-play-button {
+    background-color: #fff; /* Define a cor de fundo do botão de reprodução/pausa */
+    color: #000; /* Define a cor do ícone do botão de reprodução/pausa */
+  }
+
+  #videoPlayer::-webkit-media-controls-timeline {
+    background-color: #ccc; /* Define a cor de fundo da barra de progresso */
+  }

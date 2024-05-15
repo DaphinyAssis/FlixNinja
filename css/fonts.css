@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'exima';
+    src: url('../fonts/EximaGeometric.ttf');
+}
+
+@font-face {
+    font-family: 'lemonmilk';
+    src: url('../fonts/LEMONMILK-Regular.otf');
+}
+
+@font-face {
+    font-family: 'poppins';
+    src: url('../fonts/Poppins-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'nexa';
+    src: url('../fonts/Nexa-Heavy.ttf');
+}
