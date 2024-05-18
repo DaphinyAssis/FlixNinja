@@ -56,8 +56,6 @@
 }
 
 
-
-
 .informacoes .assistir{
     font-family: nexa;
     letter-spacing: 1px;
@@ -65,7 +63,7 @@
     margin: 20px 0;
     padding: 12px 40px;
     border-radius: 9px;
-    background-color: rgb(19, 211, 41);
+    background-color: #13d329;
     border:1px;
     color: #fff;
     transition: all 5.0 ease-in-out;
